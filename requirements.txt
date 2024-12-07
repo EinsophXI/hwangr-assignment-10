@@ -1,0 +1,5 @@
+Flask
+torch
+open_clip_torch
+Pillow
+pandas
